@@ -1,1 +1,1 @@
-this repo is only for practicing git.
+this repo is only for absorbing git.
